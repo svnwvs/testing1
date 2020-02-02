@@ -2,10 +2,10 @@
   <div>
     <logo />
     <h1 class="title">seven waves art collective</h1>
-    <h2 class="subtitle">deploying serenity for your ideas</h2>
-    <a href="https://github.com/xdesro/nuxt-netlify-cms-starter">GitHub</a>
-    <a href="http://i.ncredibly.online">Twitter</a>
-    <nuxt-link to="/blog">Blog</nuxt-link>
+    <h2 class="subtitle">coming soon: solutions in serenity for your business</h2>
+    <a href="mailto:human@svnwvs.com">email</a>
+    <a href="http://www.twitter.com">twitter</a>
+    <a href="http://www.instagram.com">instagram</a>
   </div>
 </template>
 
