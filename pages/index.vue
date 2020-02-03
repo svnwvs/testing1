@@ -2,7 +2,7 @@
   <div>
     <logo />
     <h1 class="title">seven waves art collective</h1>
-    <h2 class="subtitle">coming soon: solutions in serenity for your business</h2>
+    <h2 class="subtitle">coming soon: solutions for your business</h2>
     <a href="mailto:human@svnwvs.com">email</a>
     <a href="http://www.twitter.com">twitter</a>
     <a href="http://www.instagram.com">instagram</a>
